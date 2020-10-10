@@ -1,6 +1,6 @@
 # Clustering. Algoritmul K-Means
 
-**[Enunt]** (https://github.com/cristysandu/Clustering-Algoritmul-K-Means/blob/master/Tema1%20-%20Enunt.pdf)
+**[Enunt](https://github.com/cristysandu/Clustering-Algoritmul-K-Means/blob/master/Tema1%20-%20Enunt.pdf)
 
 ## Task-ul 1
 
