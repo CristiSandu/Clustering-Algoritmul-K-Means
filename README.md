@@ -20,4 +20,4 @@ La acest task dupa ce am determinat la fiecare pas care este cel mai apropiat ce
 
 La acest task am recitit valorile din fisierul cu puncte ,apoi am facut o iteratie de la 1 la 10 apeland pe rand clustering_pc de points si i facnd centroizi pentru fiecare i si salvand costul total apeland functia compute_cost_pc de points si centroids intr-un vector v apeland la finalul iteratiei functia plot de v.
 
-[Enunt](https://github.com/cristysandu/Clustering-Algoritmul-K-Means/blob/master/Tema1%20-%20Enunt.pdf)
+**[Enunt](https://github.com/cristysandu/Clustering-Algoritmul-K-Means/blob/master/Tema1%20-%20Enunt.pdf)**
