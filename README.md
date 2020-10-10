@@ -1,7 +1,5 @@
 # Clustering. Algoritmul K-Means
 
-**[Enunt]**(https://github.com/cristysandu/Clustering-Algoritmul-K-Means/blob/master/Tema1%20-%20Enunt.pdf)
-
 ## Task-ul 1
 
 La acest task am folosit functia load si apoi o conversie din tipul struct in tipul matrice pentru a citi coordonatele punctelor din fisier si functia fscanf pentru a citi nr de centroizi asta dupa ce am deschis fisierul.
@@ -21,3 +19,5 @@ La acest task dupa ce am determinat la fiecare pas care este cel mai apropiat ce
 ## Task-ul 5
 
 La acest task am recitit valorile din fisierul cu puncte ,apoi am facut o iteratie de la 1 la 10 apeland pe rand clustering_pc de points si i facnd centroizi pentru fiecare i si salvand costul total apeland functia compute_cost_pc de points si centroids intr-un vector v apeland la finalul iteratiei functia plot de v.
+
+[Enunt](https://github.com/cristysandu/Clustering-Algoritmul-K-Means/blob/master/Tema1%20-%20Enunt.pdf)
