@@ -1,5 +1,7 @@
 # Clustering. Algoritmul K-Means
 
+**[Enunt]** (https://github.com/cristysandu/Clustering-Algoritmul-K-Means/blob/master/Tema1%20-%20Enunt.pdf)
+
 ## Task-ul 1
 
 La acest task am folosit functia load si apoi o conversie din tipul struct in tipul matrice pentru a citi coordonatele punctelor din fisier si functia fscanf pentru a citi nr de centroizi asta dupa ce am deschis fisierul.
